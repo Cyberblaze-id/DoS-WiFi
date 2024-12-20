@@ -43,7 +43,7 @@ Penggunaan
 Catatan
 - Jangan menggunakan skrip ini pada jaringan yang bukan milik Anda. Melakukan serangan pada jaringan tanpa izin adalah ilegal dan dapat dikenakan hukuman pidana.
 - Pastikan Anda memahami teknik ini dan tujuannya untuk tujuan pendidikan dan keamanan jaringan saja.
-- 
+  
 Kontak
 - GitHub: [Cyberblaze-id](https://github.com/Cyberblaze-id)
 - Instagram: [@cyberblaze.id](https://www.instagram.com/cyberblaze.id/)
@@ -53,4 +53,6 @@ Lisensi
 Skrip ini dibagikan di bawah lisensi pendidikan dan digunakan dengan tanggung jawab penuh oleh pengguna.
 
 Pastikan kamu menyesuaikan URL atau informasi lainnya sesuai dengan yang kamu inginkan. File `README.md` ini memberikan penjelasan yang jelas dan rinci tentang cara menggunakan skrip kamu dan cara instalasi.
+
+"In the flames of chaos, we find the truth. Disrupt the system, burn away the lies, and let justice rise from the ashes." — Blazeheart
 
