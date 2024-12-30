@@ -1,7 +1,7 @@
 # DoS-WiFi
 
 ## Contoh Output Skrip
-![Contoh Output Skrip](images/blazedos.png)
+![Contoh Output Skrip](blazedos.png)
 
 
 **DoS-WiFi** adalah skrip Python yang dirancang untuk tujuan pendidikan, yang memungkinkan pengguna untuk melakukan serangan *Denial of Service* (DoS) pada jaringan Wi-Fi dengan menggunakan teknik deauthentication. Skrip ini menggunakan beberapa alat seperti `airodump-ng`, `airmon-ng`, dan `aireplay-ng` untuk mendeteksi jaringan Wi-Fi dan melakukan serangan terhadapnya.
